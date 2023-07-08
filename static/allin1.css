@@ -39,28 +39,28 @@ body,html{
 .busyness_planet{
     top: 50%;
     left: 8%;
-    background:url(http://127.0.0.1:8000/static/images/busyness_planet.png);
+    background:url(https://dchans.com/static/images/busyness_planet.png);
     background-size: 21vw;
     scale: 0.7;
 }
 .comingsoon_planet1{
     top: 19%;
     left: 74%;
-    background:url(http://127.0.0.1:8000/static/images/comingsoon1.png);
+    background:url(https://dchans.com/static/images/comingsoon1.png);
     background-size: 21vw;
     scale: 0.5;
 }
 .comingsoon_planet2{
     top: 78%;
     left: 46%;
-    background:url(http://127.0.0.1:8000/static/images/comingsoon2.png);
+    background:url(https://dchans.com/static/images/comingsoon2.png);
     background-size: 21vw;
     scale: 0.4;
 }
 .comingsoon_planet3{
     top: -8%;
     left: 25%;
-    background:url(http://127.0.0.1:8000/static/images/comingsoon3.png);
+    background:url(https://dchans.com/static/images/comingsoon3.png);
     background-size: 21vw;
     scale: 0.3;
 }
